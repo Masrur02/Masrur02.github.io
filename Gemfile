@@ -19,6 +19,8 @@ group :jekyll_plugins do
     gem "jekyll-jupyter-notebook"
     gem 'jekyll-link-attributes'
     gem 'webrick'
+    gem 'jekyll-toc'
+
 end
 group :other_plugins do
     gem 'httparty'
