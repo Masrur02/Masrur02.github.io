@@ -17,7 +17,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem "jekyll-get-json"
     gem "jekyll-jupyter-notebook"
-
+    gem 'jekyll-link-attributes'
     gem 'webrick'
 end
 group :other_plugins do
