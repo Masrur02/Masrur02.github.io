@@ -107,6 +107,8 @@ GEM
       jekyll (>= 3.0)
     jekyll-imagemagick (1.4.0)
       jekyll (>= 3.4)
+    jekyll-jupyter-notebook (0.0.6)
+      jekyll
     jekyll-minifier (0.1.10)
       cssminify2 (~> 2.0)
       htmlcompressor (~> 0.4)
@@ -212,6 +214,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-get-json
   jekyll-imagemagick
+  jekyll-jupyter-notebook
   jekyll-minifier
   jekyll-paginate-v2
   jekyll-scholar

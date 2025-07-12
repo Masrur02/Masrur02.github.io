@@ -16,6 +16,8 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem "jekyll-get-json"
+    gem "jekyll-jupyter-notebook"
+
     gem 'webrick'
 end
 group :other_plugins do
