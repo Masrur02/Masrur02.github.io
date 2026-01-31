@@ -1,67 +1,54 @@
----
-layout: page
-permalink: /lineage/
-title: Academic Lineage
-description: Intellectual and academic ancestry
-nav: true
-nav_order: 3
----
+<div class="lineage-page">
 
-<div class="lineage">
+  <h2 class="lineage-title">Academic & Intellectual Lineage</h2>
 
-## Academic & Intellectual Lineage
+  <p class="lineage-intro">
+    My academic lineage reflects a continuous intellectual tradition spanning
+    robotics, artificial intelligence, medicine, and the mathematical sciences.
+  </p>
 
-My academic lineage reflects a continuous intellectual tradition spanning robotics,
-artificial intelligence, physiology, medicine, and the mathematical sciences.
-Rather than representing genealogy, this lineage captures the transmission of
-ideas, experimental methodology, and embodied reasoning that shape my work on
-perception, affordances, and navigation in intelligent systems.
+  <hr class="lineage-divider">
 
----
+  <h3 class="lineage-section">Modern Robotics & AI</h3>
+  <ul class="lineage-list">
+    <li>Lantao Liu</li>
+    <li>Dylan Shell</li>
+    <li>Maja Matarić</li>
+    <li>Rodney Brooks</li>
+  </ul>
 
-## Modern Robotics & AI Lineage
+  <hr class="lineage-divider">
 
-- **Lantao Liu** — PhD Advisor  
-- **Dylan Shell** — Robotics, planning, and autonomy  
-- **Maja Matarić** — Embodied and socially assistive robotics  
-- **Rodney Brooks** — Behavior-based robotics and embodied AI  
+  <h3 class="lineage-section">Physiology, Medicine & Natural Science</h3>
+  <ul class="lineage-list">
+    <li>Thomas Oriel Binford</li>
+    <li>Myron Lindsay Good</li>
+    <li>Henry Winston Newson</li>
+    <li>William Draper Harkins</li>
+    <li>Robert Eccles Swain</li>
+    <li>Lafayette Benedict Mendel</li>
+    <li>Russell Henry Chittenden</li>
+    <li>Wilhelm Friedrich Kühne</li>
+    <li>Rudolph Wagner</li>
+    <li>Johann Lukas Schönlein</li>
+    <li>Ignaz Döllinger</li>
+    <li>Antonio Scarpa</li>
+    <li>Giovan Battista Morgagni</li>
+    <li>Antonio Valsalva</li>
+    <li>Marcello Malpighi</li>
+  </ul>
 
----
+  <hr class="lineage-divider">
 
-## Physiology, Medicine, and Natural Science Lineage
-
-- Thomas Oriel Binford  
-- Myron Lindsay Good  
-- Henry Winston Newson  
-- William Draper Harkins  
-- Robert Eccles Swain  
-- Lafayette Benedict Mendel  
-- Russell Henry Chittenden  
-- Wilhelm Friedrich Kühne  
-- Rudolph Wagner  
-- Johann Lukas Schönlein  
-- Ignaz Döllinger  
-- Antonio Scarpa  
-- Giovan Battista Morgagni  
-- Antonio Valsalva  
-- Marcello Malpighi  
-
-This lineage emphasizes structure–function relationships, experimental grounding,
-and physical embodiment—principles that strongly inform my approach to robotics
-and navigation.
-
----
-
-## Mathematical & Physical Foundations
-
-- Giovanni Alfonso Borelli  
-- Benedetto Castelli  
-- Galileo Galilei  
-- Ostilio Ricci da Fermo  
-- Niccolò Tartaglia (Autodidact-- Influenced by Al-Khwarizmi, Euclid)
--  
-
-This intellectual foundation highlights geometry, mechanics, and abstraction,
-which underpin modern spatial reasoning and navigation systems.
+  <h3 class="lineage-section">Mathematical & Physical Foundations</h3>
+  <ul class="lineage-list">
+    <li>Giovanni Alfonso Borelli</li>
+    <li>Benedetto Castelli</li>
+    <li>Galileo Galilei</li>
+    <li>Ostilio Ricci da Fermo</li>
+    <li>Niccolò Tartaglia</li>
+    <li>Al-Khwarizmi</li>
+    <li>Euclid</li>
+  </ul>
 
 </div>
